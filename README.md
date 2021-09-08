@@ -1,5 +1,5 @@
-# Termux-YTD
-#### Termux-YouTube-Downloader
+# Sazdahani-YTD
+#### Sazdahani-YouTube-Downloader
 This is The latest Script For Downloading Youtube Videos with your Termux. Download any Youtube Video in 2 Clicks.
 <p align="center">
   <img alt="Smiley face" src="https://s18.picofile.com/file/8440477284/youtube_dl_logo.png">
