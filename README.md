@@ -10,11 +10,19 @@ Author 👨‍💻: sazdahani-2001 <br>
 
 Github 🌎: https://github.com/sazdahani-2001/ <br>
 
-Instagram : https://www.instagram.com/skhan_official/ <br>
+<br>
 <br>
 <br>
 
 ### Installation & Usage:
+
+Use this code on termux terminal : <br>
+
+<pre>
+<code>apt update &amp;&amp; apt upgrade &amp;&amp; cd &amp;&amp; pkg install git -y &amp;&amp;git clone https://github.com/sazdahani-2001/Termux-YTD/ &amp;&amp; cd Termux-YTD &amp;&amp; bash install.sh</code></pre>
+
+<p>&nbsp;</p>
+
 Read This post for installation and usage, I have explained everything using screenshots.
 
 https://www.learntermux.tech/2020/04/Termux-Youtube-Video-Downloader.html
