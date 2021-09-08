@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-# Project name : Termux-YTD
+# Project name : Sazdahani-YTD
 # Coded by: sazdahani-2001 (You dont become a coder by just changing the credits)
 # Github: https://github.com/sazdahani-2001/Termux-YTD/
 # Date : 14/4/2020
