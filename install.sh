@@ -2,7 +2,7 @@
 
 # Project name : Sazdahani-YTD
 # Coded by: sazdahani-2001 (You dont become a coder by just changing the credits)
-# Github: https://github.com/sazdahani-2001/Termux-YTD/
+# Github: https://github.com/sazdahani-2001/Sazdahani-YTD/
 # Date : 8/9/2021
 
 #Probably make a varible with the file name 
