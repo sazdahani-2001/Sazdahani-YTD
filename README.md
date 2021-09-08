@@ -19,7 +19,7 @@ Github 🌎: https://github.com/sazdahani-2001/ <br>
 Use this code on termux terminal : <br>
 
 <pre>
-<code>apt update &amp;&amp; apt upgrade &amp;&amp; cd &amp;&amp; pkg install git -y &amp;&amp;git clone https://github.com/sazdahani-2001/Termux-YTD/ &amp;&amp; cd Termux-YTD &amp;&amp; bash install.sh</code></pre>
+<code>apt update &amp;&amp; apt upgrade &amp;&amp; cd &amp;&amp; pkg install git -y &amp;&amp;git clone https://github.com/sazdahani-2001/Sazdahani-YTD/ &amp;&amp; cd Termux-YTD &amp;&amp; bash install.sh</code></pre>
 
 <p>&nbsp;</p>
 
